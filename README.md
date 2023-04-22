@@ -71,3 +71,7 @@ Go to S3 service in AWS console -> Create S3 bucket -> s3-slackuserfile -> Uploa
 Slack:
 
 Create app at https://api.slack.com/apps (userapp) (permission scopes chat:write , Im:write) -> install app to Workspace -> Get slack app token (Starts from ''xoxb-')(used in lambda function)
+
+![image](https://user-images.githubusercontent.com/68280687/233784488-7bf2b46a-7bfd-42a9-8fb1-8385b2edde4f.png)
+
+
