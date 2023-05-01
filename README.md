@@ -1,5 +1,7 @@
 # Work done for UTOPUS INSIGHTS PVT. LTD. BANGALORE as SITE RELIABILITY ENGINEER.
 
+Day-to-Day operation included monitoring all the services offered by the company and make report of issue/discrepancy found and send it to tech team. Coordinated with Security Operation Team to create and integrate good security practice around the company to reduce attack risk over internet.
+
 # PROJECT-NAME: AWS IAM User Credential Expiry Notifier
 
 Send password expiry notification and access key expiry notification on slack and email to the respective users and AWS admin. Reminding user to reset password every 90 days and rotate access key every 180 days.
